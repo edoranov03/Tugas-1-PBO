@@ -1,0 +1,10 @@
+// 13020220010, Edo Ranov Anjasmara, Kamis/22.02.2024, 21:33
+public class Asign {
+
+	public static void main(String[] args) {
+		int i;
+
+		System.out.print ("hello\n"); i = 5;
+		System.out.println ("Ini nilai i : " + i);
+	}
+}
